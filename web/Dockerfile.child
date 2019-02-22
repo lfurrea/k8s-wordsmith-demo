@@ -1,0 +1,2 @@
+FROM r.cfcr.io/lfurrea/k8swordsmithdemo:development-87f6e0b
+COPY testy .
